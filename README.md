@@ -1,20 +1,20 @@
-# **Olá, eu sou Guedes!**
+# **Hey, I am Guedes!**
 
-## 📌 *Quem eu sou?*
-- 😉 Eu me chamo Yago Guedes!
-- 🏆 22 anos
-- 🏠 Resido atualmente em Salvador/BA
-- ⏳ Atualmente no terceiro semestre de Análise e Desenvolvimento de Sistemas. [3/5]
-- 🖥️ Interesse em Front-end.
-    - 🖥️ Noção básica em Python
+## 📌 *Who i am?*
+- 😉 My name is Yago Guedes!
+- 🏆 22 years
+- 🏠 I currently live in Salvador/BA
+- ⏳ Currently in the third semester of Systems Analysis and Development. [3/5]
+- 🖥️ Interest in Frontend.
+     - 🖥️ Basics in Python
 
-## 📌 *Linguagens* 
+## 📌 *Skills* 
 - 📁 HTML
 - 📁 CSS3
 - 📁 JavaScript
 - 📁 Python (noção)
 
-## 📌 *Contato*
-- 📜 E-mail: guedesymc@gmail.com
+## 📌 *Contact*
+- 📜 Email: guedesymc@gmail.com
 - 🧧 Instagram: @guedesyc
-- 📱 Celular/WhatsApp: (71)999583586
+- 📱 Mobile/WhatsApp: (71)999583586
