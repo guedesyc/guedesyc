@@ -3,7 +3,7 @@
 ## 📌 *Who i am?*
 - 😉 My name is Yago Guedes!
 - 🏆 22 years
-- 🏠 I currently live in Salvador/BA
+- 🏠 I currently live in Salvador/BA - Brazil
 - ⏳ Currently in the third semester of Systems Analysis and Development. [3/5]
 - 🖥️ Interest in Frontend.
      - 🖥️ Basics in Python
